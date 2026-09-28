@@ -15,7 +15,7 @@ HuggingFace Dataset ──> Strands Agent ──> Bedrock Models (Claude Sonnet 
 ## Project Structure
 
 ```
-rbc-evals-demo/
+llm-agent-evals-demo/
 ├── infra/                          # Terraform (KMS, S3, IAM, SageMaker, MLflow App, SSM)
 │   ├── main.tf
 │   ├── variables.tf
